@@ -1,0 +1,13 @@
+Package: YatesAlgo.FactorialExp.Analyse
+Type: Package
+Title: Yates' Algorithm in 2^n Factorial Experiment
+Version: 4.0.4
+Author: Somjit Roy
+Maintainer: Somjit Roy <somjit.roy2001@gmail.com>
+Description: Determines the Sum Of Squares of the (2^n)-1 Factorial Effects in a 2^n Factorial Experiment using Yates' Algorithm.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    lubridate
+RoxygenNote: 7.1.1
